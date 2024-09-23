@@ -21,4 +21,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Esempio di utilizzo del plugin Vite per la creazione del design dell pagina web
+## Esempio di utilizzo del plugin Vite per la creazione del design della pagina web
